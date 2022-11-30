@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 
-- 👀 I’m interested in Open source and Web Development
+- 👀 I’m interested in Open source and App Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner open source projects
+- 💞️ I’m looking to collaborate on beginner Open Source projects
 - 📫 How to reach me | email - nimitpanwar23@gmail.com
 
 <!---
